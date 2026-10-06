@@ -62,8 +62,8 @@ The project utilizes the **AI4I 2020 Predictive Maintenance Dataset** (UCI Machi
 ### 1. Clone the Repository & Install Dependencies
 
 ```bash
-git clone [https://github.com/your-username/edge-anomaly-detection.git](https://github.com/your-username/edge-anomaly-detection.git)
-cd edge-anomaly-detection
+git clone https://github.com/mayank5-cmd/Edge_AI_Anomaly_Detection_system.git
+cd Edge_AI_Anomaly_Detection_system
 pip install -r requirements.txt
 
 ```
@@ -151,6 +151,3 @@ This project directly fulfills all criteria of the Capstone Evaluation Rubric:
 2. **Microcontroller Flashing:** Deploy directly onto low-cost MCUs (ESP32, STM32, ARM Cortex-M) controlling smart fan motors or battery management systems.
 3. **Multi-Sensor Fusion:** Expand input features to include vibration (IMU accelerometer) and acoustic audio signals for early acoustic failure detection.
 
-```
-
-```
