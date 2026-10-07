@@ -26,7 +26,7 @@ edge-anomaly-detection/
 ├── README.md                 # Full project documentation & benchmark guide
 ├── requirements.txt          # Lightweight Python dependencies
 ├── executive_summary.md      # 2-Page Executive Summary
-├── pitch_deck.md             # 5-Slide Pitch Deck presentation script
+├── pitch_deck.pptx             # 5-Slide Pitch Deck presentation
 ├── data_prep.py              # Ingestion, imputation, & StandardScaler pipeline
 ├── train.py                  # Isolation Forest training & evaluation engine
 ├── edge_inference.py         # Sub-millisecond edge prediction module
